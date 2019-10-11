@@ -1,0 +1,17 @@
+#div{
+	background-color: red;
+	width: 948px;
+	height: 672px;
+}
+
+#div img{
+	width: 832px;
+	height: 556px;
+	background-color: yellow;
+	padding: 32px;
+	border: 16px solid orange;
+	margin: 10px;
+}
+
+
+/*margin: 35px 284px;*/
